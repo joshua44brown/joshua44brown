@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joshua44brown@gmail.com**
 
-- ⚡ Fun fact **I am a self-taught photographer.**
+- ⚡ Fun fact **I am a self-taught photographer 📸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
