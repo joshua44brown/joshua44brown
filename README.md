@@ -1,6 +1,7 @@
 <h1 align="center">Hello 😎, I'm Joshua Brown</h1>
 <h3 align="center">Software Engineer.</h3>
 
+<h2>About Me</h2>
 <p>I am a passionate software engineer during the day and a self-taught photographer by night. My area of emphasis is full stack web development. I like to approach problems with a creative mindset and acute sense of detail to drive promising results. Software development is exciting because the ability to think of an idea and have the power to bring it to life is truly incredible. Not only can I develop software, but I can maintain it as well. I have a background in IT and also have experience in QA Engineering.</p>
 
 - 👨‍💻 I’m currently working on **freelance work.**
