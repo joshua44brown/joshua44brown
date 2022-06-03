@@ -28,5 +28,5 @@
 
 <h3 align="left">Codewars</h3>
 <p align="left" dir="auto">
-  <a href="https://www.codewars.com/users/joshua44brown" rel="nofollow"><img src="https://www.codewars.com/users/joshua44brown/badges/small" style="max-width: 100%;"></a>
+  <a href="https://www.codewars.com/users/joshua44brown" rel="nofollow"><img src="https://www.codewars.com/users/joshua44brown/badges/large" style="max-width: 100%;"></a>
 </p>
