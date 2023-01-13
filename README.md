@@ -21,8 +21,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua44brown&show_icons=true&theme=tokyonight&title_color=874efe&text_color=00c7fc&locale=en" alt="joshua44brown" /></p>
 
 <h3 align="left">Codewars</h3>
-<p align="left" dir="auto">
-  <a href="[https://www.codewars.com/users/joshua44brown](https://www.codewars.com/users/joshua44brown)" rel="nofollow"><img src="https://www.codewars.com/users/joshua44brown/badges/large" style="max-width: 100%;"></a>
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=joshua44brown" />
+    </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
