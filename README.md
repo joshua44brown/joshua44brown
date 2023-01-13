@@ -19,7 +19,7 @@
 
 <h3 align="left">Codewars</h3>
 <p align="left" >
-    <a href="LINK TO: WHEN CLICKED">
+    <a href="https://www.codewars.com/users/joshua44brown">
       <img src="https://github.r2v.ch/codewars?user=joshua44brown" />
     </a>
 </p>
